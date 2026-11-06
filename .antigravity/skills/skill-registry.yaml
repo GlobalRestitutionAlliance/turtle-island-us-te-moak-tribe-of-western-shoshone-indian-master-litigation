@@ -7,8 +7,8 @@ skills:
   name: Historical Intervention & Canal Concession Audit
   status: ACTIVE
   manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: nicaraguan-restitution-roadmap-and-qsf-trust-execution
-  name: Nicaraguan Restitution Roadmap & QSF Trust Execution
+- id: moak-tribe-of-western-shoshone-indianan-restitution-roadmap-and-qsf-trust-execution
+  name: Moak Tribe of Western Shoshone Indianan Restitution Roadmap & QSF Trust Execution
   status: ACTIVE
-  manifest_file: .antigravity/skills/nicaraguan-restitution-roadmap-and-qsf-trust-execution.yaml
+  manifest_file: .antigravity/skills/moak-tribe-of-western-shoshone-indianan-restitution-roadmap-and-qsf-trust-execution.yaml
 total_skills: 3
